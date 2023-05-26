@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [GraphQl-HotChocolate](https://github.com/FUFKASSS/GraphQl-Redis-PostgreSql-Serilog-etc)  
   
 
-- 🌱 I’m currently learning GraphQl/Microservices/DevOps/FrontEnd  
+- 🌱 I’m currently learning GraphQl
   
 
 - ⚡ Fun fact: I planned to be a humanities major, I became a technology major.  
